@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Yakshasree Danaboina 👋
 
-<!--
-**YAKSHASREE/YAKSHASREE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech graduate in Artificial Intelligence and Machine Learning (2026).
 
-Here are some ideas to get you started:
+🐍 Interested in Python programming, Data Science, Machine Learning, Deep Learning, and Natural Language Processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Projects:
+- Real-Time Traffic Object Detection
+- Resume Review Pro
+
+🚀 Continuously learning, building projects, and improving my problem-solving skills.
+
+🤝 Open to entry-level opportunities and collaboration on Python and AI-related projects.
