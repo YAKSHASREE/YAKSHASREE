@@ -1,13 +1,34 @@
-# Hi, I'm Yakshasree Danaboina 👋
+# 👋 Hi, I'm Yakshasree Danaboina
 
-🎓 B.Tech graduate in Artificial Intelligence and Machine Learning (2026).
+### 💻 AI & ML Graduate | Python Enthusiast | Aspiring Data Scientist
 
-🐍 Interested in Python programming, Data Science, Machine Learning, Deep Learning, and Natural Language Processing.
+🎓 **B.Tech in Artificial Intelligence and Machine Learning — 2026 Graduate**
 
-💡 Projects:
-- Real-Time Traffic Object Detection
-- Resume Review Pro
+I'm passionate about building intelligent solutions using Python, Artificial Intelligence, and Machine Learning. I enjoy exploring data, developing practical applications, and turning ideas into projects that solve real-world problems.
 
-🚀 Continuously learning, building projects, and improving my problem-solving skills.
+### 🚀 Technical Interests
+- 🐍 **Programming:** Python
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Deep Learning & Natural Language Processing**
+- 📊 **Data Science and Data-Driven Solutions**
 
-🤝 Open to entry-level opportunities and collaboration on Python and AI-related projects.
+### 🛠️ Featured Projects
+
+🔹 **Real-Time Traffic Object Detection**  
+Exploring computer vision through a Transformer–CNN fusion approach to improve vehicle and pedestrian detection in challenging traffic scenarios.
+
+🔹 **Resume Review Pro**  
+An AI-powered resume analysis application that compares resumes with job descriptions, identifies skill gaps, and provides improvement suggestions.
+
+### 🌱 Currently Learning
+- Data Science with Generative AI
+- Strengthening Python and Machine Learning fundamentals
+- Building practical projects and improving problem-solving skills
+
+### 🎯 My Goal
+To begin my career in AI, Machine Learning, or Python development, contribute to meaningful projects, and grow through continuous learning and collaboration.
+
+### 🤝 Let's Connect!
+I'm open to entry-level opportunities, collaborative projects, and connecting with people who are passionate about Python, AI, and emerging technologies.
+
+**“Learn continuously. Build thoughtfully. Create meaningful impact.”**
